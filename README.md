@@ -13,5 +13,5 @@ If you enjoy using my tools and want to support me, you can donate below.
 **Monero (XMR):**  
 `85WaFLhsc6QFR747nCLtmMes7Qhfwd1gkauBxdep3jpGS2KXj7res17LV5myFNR9XNLGeBEeWmmBpibDEVWG3zpWA1xiQzK`
 
-*Thank you for your support!*  
+*Thanks for your support!*  
 vixkrell@gmail.com
