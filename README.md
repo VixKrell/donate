@@ -1,4 +1,4 @@
-If you enjoy using my tools and want to support me, you can donate below...
+If you enjoy using my tools and want to support me, you can donate below.
 
 <br>
 
