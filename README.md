@@ -1,7 +1,7 @@
 <style>
-  /* Remove default line under titles */
-  h1, h2, header {
-    border-bottom: none !important;
+  /* Hides the main auto-generated title */
+  h1, .page-heading, .post-title {
+    display: none !important;
   }
   
   /* Make the "Show QR Code" text 12.5% smaller */
@@ -13,9 +13,7 @@
 
 If you enjoy my tools and want to support me, you can donate below.
 
-<br>
-
-<div style="height:1px; background-color:#dbdbdb; margin:20px 0;"></div>
+<div style="height:1px; background-color:#dbdbdb; margin:10px 0 20px 0;"></div>
 
 **Bitcoin (BTC):**
 <div style="display:flex; align-items:center; gap:2px; margin-top:-12px; margin-bottom:4px;">
@@ -98,10 +96,10 @@ function copy(id, btn) {
     // Change icon to checkmark
     btn.innerText = "✅";
     
-    // Revert back after 2 seconds
+    // Revert back after 1.8 seconds (1800ms)
     setTimeout(function() {
       btn.innerText = "📋";
-    }, 2000);
+    }, 1800);
   }, function(err) {
     console.error('Could not copy text: ', err);
   });
