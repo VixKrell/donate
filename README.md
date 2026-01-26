@@ -96,10 +96,10 @@ function copy(id, btn) {
     // Change icon to checkmark
     btn.innerText = "✅";
     
-    // Revert back after 1.8 seconds (1800ms)
+    // Revert back after 1.75 seconds (1750ms)
     setTimeout(function() {
       btn.innerText = "📋";
-    }, 1800);
+    }, 1750);
   }, function(err) {
     console.error('Could not copy text: ', err);
   });
