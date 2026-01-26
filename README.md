@@ -3,8 +3,7 @@ If you enjoy my tools and want to support me, you can donate below.
 <br>
 
 **Bitcoin (BTC):** <br>
-<button onclick="copy('btc', this)" style="cursor:pointer; font-size: 1.2em; border:none; background:none;" title="Copy Address">📋</button>
-<code id="btc">bc1qzthdgzhdjmqgan5n9c3dp5g3m24sqv30unzxjn</code> 
+<button onclick="copy('btc', this)" style="cursor:pointer; font-size: 1.2em; border:none; background:none; margin-right:5px;" title="Copy Address">📋</button><code id="btc">bc1qzthdgzhdjmqgan5n9c3dp5g3m24sqv30unzxjn</code> 
 
 <details>
   <summary>Show Bitcoin QR Code</summary>
@@ -15,8 +14,7 @@ If you enjoy my tools and want to support me, you can donate below.
 <br>
 
 **Ethereum (ETH):** <br>
-<button onclick="copy('eth', this)" style="cursor:pointer; font-size: 1.2em; border:none; background:none;" title="Copy Address">📋</button>
-<code id="eth">0xda1c45125c3148bef77922225da5936d7777ca0e</code> 
+<button onclick="copy('eth', this)" style="cursor:pointer; font-size: 1.2em; border:none; background:none; margin-right:5px;" title="Copy Address">📋</button><code id="eth">0xda1c45125c3148bef77922225da5936d7777ca0e</code> 
 
 <details>
   <summary>Show Ethereum QR Code</summary>
@@ -27,8 +25,7 @@ If you enjoy my tools and want to support me, you can donate below.
 <br>
 
 **XRP:** (Tag not required. If forced, use 0) <br>
-<button onclick="copy('xrp', this)" style="cursor:pointer; font-size: 1.2em; border:none; background:none;" title="Copy Address">📋</button>
-<code id="xrp">rN3KXnyiZvNFTUkY1Yry5xrx3nyNTMjPPo</code> 
+<button onclick="copy('xrp', this)" style="cursor:pointer; font-size: 1.2em; border:none; background:none; margin-right:5px;" title="Copy Address">📋</button><code id="xrp">rN3KXnyiZvNFTUkY1Yry5xrx3nyNTMjPPo</code> 
 
 <details>
   <summary>Show XRP QR Code</summary>
@@ -39,8 +36,7 @@ If you enjoy my tools and want to support me, you can donate below.
 <br>
 
 **Monero (XMR):** <br>
-<button onclick="copy('xmr', this)" style="cursor:pointer; font-size: 1.2em; border:none; background:none;" title="Copy Address">📋</button>
-<code id="xmr">85WaFLhsc6QFR747nCLtmMes7Qhfwd1gkauBxdep3jpGS2KXj7res17LV5myFNR9XNLGeBEeWmmBpibDEVWG3zpWA1xiQzK</code> 
+<button onclick="copy('xmr', this)" style="cursor:pointer; font-size: 1.2em; border:none; background:none; margin-right:5px;" title="Copy Address">📋</button><code id="xmr">85WaFLhsc6QFR747nCLtmMes7Qhfwd1gkauBxdep3jpGS2KXj7res17LV5myFNR9XNLGeBEeWmmBpibDEVWG3zpWA1xiQzK</code> 
 
 <details>
   <summary>Show Monero QR Code</summary>
@@ -51,8 +47,7 @@ If you enjoy my tools and want to support me, you can donate below.
 <br>
 
 **Litecoin (LTC):** <br>
-<button onclick="copy('ltc', this)" style="cursor:pointer; font-size: 1.2em; border:none; background:none;" title="Copy Address">📋</button>
-<code id="ltc">ltc1qv2etczlwqklcvkh9axt5uruh0r2qjj45s978pp</code> 
+<button onclick="copy('ltc', this)" style="cursor:pointer; font-size: 1.2em; border:none; background:none; margin-right:5px;" title="Copy Address">📋</button><code id="ltc">ltc1qv2etczlwqklcvkh9axt5uruh0r2qjj45s978pp</code> 
 
 <details>
   <summary>Show Litecoin QR Code</summary>
