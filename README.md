@@ -14,7 +14,7 @@ If you enjoy my tools and want to support me, you can donate below.
   <img src="btc.png" width="250" alt="Bitcoin QR">
 </details>
 
-<div style="height:1px; background-color:#eaeaea; margin:20px 0;"></div>
+<div style="height:1px; background-color:#cccccc; margin:20px 0;"></div>
 
 **Ethereum (ETH):**
 <div style="display:flex; align-items:center; gap:2px; margin-top:-12px; margin-bottom:7px;">
@@ -28,7 +28,7 @@ If you enjoy my tools and want to support me, you can donate below.
   <img src="eth.png" width="250" alt="Ethereum QR">
 </details>
 
-<div style="height:1px; background-color:#eaeaea; margin:20px 0;"></div>
+<div style="height:1px; background-color:#cccccc; margin:20px 0;"></div>
 
 **XRP:** (Tag not required. If forced, use 0)
 <div style="display:flex; align-items:center; gap:2px; margin-top:-12px; margin-bottom:7px;">
@@ -42,7 +42,7 @@ If you enjoy my tools and want to support me, you can donate below.
   <img src="xrp.png" width="250" alt="XRP QR">
 </details>
 
-<div style="height:1px; background-color:#eaeaea; margin:20px 0;"></div>
+<div style="height:1px; background-color:#cccccc; margin:20px 0;"></div>
 
 **Monero (XMR):**
 <div style="display:flex; align-items:center; gap:2px; margin-top:-12px; margin-bottom:7px;">
@@ -56,7 +56,7 @@ If you enjoy my tools and want to support me, you can donate below.
   <img src="xmr.png" width="250" alt="Monero QR">
 </details>
 
-<div style="height:1px; background-color:#eaeaea; margin:20px 0;"></div>
+<div style="height:1px; background-color:#cccccc; margin:20px 0;"></div>
 
 **Litecoin (LTC):**
 <div style="display:flex; align-items:center; gap:2px; margin-top:-12px; margin-bottom:7px;">
