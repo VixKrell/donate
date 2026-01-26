@@ -13,7 +13,7 @@
 
 If you enjoy my tools and want to support me, you can donate below.
 
-<div style="height:1px; background-color:#dbdbdb; margin:10px 0 20px 0;"></div>
+<div style="height:1px; background-color:#dbdbdb; margin:20px 0;"></div>
 
 **Bitcoin (BTC):**
 <div style="display:flex; align-items:center; gap:2px; margin-top:-12px; margin-bottom:4px;">
