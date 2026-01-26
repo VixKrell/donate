@@ -22,7 +22,7 @@ If you enjoy using my tools and want to support me, you can donate below.
 
 <br>
 
-**XRP: (Tag not required. If forced, use 0)**  
+**XRP:** (Tag not required. If forced, use 0)  
 `rN3KXnyiZvNFTUkY1Yry5xrx3nyNTMjPPo`
 <details>
   <summary>Show XRP QR Code</summary>
