@@ -2,10 +2,9 @@ If you enjoy my tools and want to support me, you can donate below.
 
 <br>
 
-**Bitcoin (BTC):** <code id="btc">bc1qzthdgzhdjmqgan5n9c3dp5g3m24sqv30unzxjn</code> 
-<button onclick="copy('btc', this)" style="cursor:pointer; vertical-align:middle;" title="Copy Address">
-  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
-</button>
+**Bitcoin (BTC):** <br>
+<button onclick="copy('btc', this)" style="cursor:pointer; font-size: 1.2em; border:none; background:none;" title="Copy Address">📋</button>
+<code id="btc">bc1qzthdgzhdjmqgan5n9c3dp5g3m24sqv30unzxjn</code> 
 
 <details>
   <summary>Show Bitcoin QR Code</summary>
@@ -15,10 +14,9 @@ If you enjoy my tools and want to support me, you can donate below.
 
 <br>
 
-**Ethereum (ETH):** <code id="eth">0xda1c45125c3148bef77922225da5936d7777ca0e</code> 
-<button onclick="copy('eth', this)" style="cursor:pointer; vertical-align:middle;" title="Copy Address">
-  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
-</button>
+**Ethereum (ETH):** <br>
+<button onclick="copy('eth', this)" style="cursor:pointer; font-size: 1.2em; border:none; background:none;" title="Copy Address">📋</button>
+<code id="eth">0xda1c45125c3148bef77922225da5936d7777ca0e</code> 
 
 <details>
   <summary>Show Ethereum QR Code</summary>
@@ -28,11 +26,9 @@ If you enjoy my tools and want to support me, you can donate below.
 
 <br>
 
-**XRP:** (Tag not required. If forced, use 0)  
+**XRP:** (Tag not required. If forced, use 0) <br>
+<button onclick="copy('xrp', this)" style="cursor:pointer; font-size: 1.2em; border:none; background:none;" title="Copy Address">📋</button>
 <code id="xrp">rN3KXnyiZvNFTUkY1Yry5xrx3nyNTMjPPo</code> 
-<button onclick="copy('xrp', this)" style="cursor:pointer; vertical-align:middle;" title="Copy Address">
-  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
-</button>
 
 <details>
   <summary>Show XRP QR Code</summary>
@@ -42,10 +38,9 @@ If you enjoy my tools and want to support me, you can donate below.
 
 <br>
 
-**Monero (XMR):** <code id="xmr">85WaFLhsc6QFR747nCLtmMes7Qhfwd1gkauBxdep3jpGS2KXj7res17LV5myFNR9XNLGeBEeWmmBpibDEVWG3zpWA1xiQzK</code> 
-<button onclick="copy('xmr', this)" style="cursor:pointer; vertical-align:middle;" title="Copy Address">
-  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
-</button>
+**Monero (XMR):** <br>
+<button onclick="copy('xmr', this)" style="cursor:pointer; font-size: 1.2em; border:none; background:none;" title="Copy Address">📋</button>
+<code id="xmr">85WaFLhsc6QFR747nCLtmMes7Qhfwd1gkauBxdep3jpGS2KXj7res17LV5myFNR9XNLGeBEeWmmBpibDEVWG3zpWA1xiQzK</code> 
 
 <details>
   <summary>Show Monero QR Code</summary>
@@ -55,10 +50,9 @@ If you enjoy my tools and want to support me, you can donate below.
 
 <br>
 
-**Litecoin (LTC):** <code id="ltc">ltc1qv2etczlwqklcvkh9axt5uruh0r2qjj45s978pp</code> 
-<button onclick="copy('ltc', this)" style="cursor:pointer; vertical-align:middle;" title="Copy Address">
-  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
-</button>
+**Litecoin (LTC):** <br>
+<button onclick="copy('ltc', this)" style="cursor:pointer; font-size: 1.2em; border:none; background:none;" title="Copy Address">📋</button>
+<code id="ltc">ltc1qv2etczlwqklcvkh9axt5uruh0r2qjj45s978pp</code> 
 
 <details>
   <summary>Show Litecoin QR Code</summary>
@@ -76,15 +70,12 @@ function copy(id, btn) {
   
   navigator.clipboard.writeText(txt).then(function() {
     
-    // Save the icon HTML so we can restore it later
-    var originalContent = btn.innerHTML;
+    // Change icon to checkmark
+    btn.innerText = "✅";
     
-    // Change button text to "Copied!"
-    btn.innerText = "Copied!";
-    
-    // Revert back to the icon after 2 seconds
+    // Revert back after 2 seconds
     setTimeout(function() {
-      btn.innerHTML = originalContent;
+      btn.innerText = "📋";
     }, 2000);
   }, function(err) {
     console.error('Could not copy text: ', err);
