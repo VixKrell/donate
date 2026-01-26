@@ -45,7 +45,7 @@ If you enjoy my tools and want to support me, you can donate below.
 
 <div style="height:1px; background-color:#dbdbdb; margin:20px 0;"></div>
 
-**XRP:** (Tag not required. If forced, use 0)
+**XRP:** <span style="font-size: 0.875em;">(Tag not required. If forced, use 0)</span>
 <div style="display:flex; align-items:center; gap:2px; margin-top:-12px; margin-bottom:4px;">
   <button onclick="copy('xrp', this)" style="cursor:pointer; font-size: 1.2em; border:none; background:none; padding:0; margin:0;" title="Copy Address">📋</button>
   <code id="xrp" style="word-break: break-all;">rN3KXnyiZvNFTUkY1Yry5xrx3nyNTMjPPo</code>
