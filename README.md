@@ -52,4 +52,4 @@ If you enjoy my tools and want to support me, you can donate below.
 
 <br>
 
-*Thanks for your support!* vixkrell@gmail.com
+*Thanks for your support!* [vixkrell@gmail.com](mailto:vixkrell@gmail.com)
