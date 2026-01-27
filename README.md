@@ -89,25 +89,6 @@ If you enjoy my tools and want to support me, you can donate below.
 *Thanks for your support!* [vixkrell@gmail.com](mailto:vixkrell@gmail.com)
 
 <script>
-// --- ACCORDION LOGIC ---
-// This ensures only one QR code is open at a time
-const allDetails = document.querySelectorAll('details');
-
-allDetails.forEach(targetDetail => {
-  targetDetail.addEventListener('toggle', () => {
-    // Only run if this element was just OPENED
-    if (targetDetail.open) {
-      // Loop through all other details elements and close them
-      allDetails.forEach(detail => {
-        if (detail !== targetDetail) {
-          detail.removeAttribute('open');
-        }
-      });
-    }
-  });
-});
-
-// --- COPY BUTTON LOGIC ---
 // Variables to track the currently active button and its timer
 var activeBtn = null;
 var activeTimer = null;
