@@ -4,11 +4,12 @@
     display: none !important;
   }
   
-  /* Make the "Show QR Code" text 12.5% smaller */
+  /* Make the "Show QR Code" text 12.5% smaller and nudge it right */
   summary {
     font-size: 0.875em;
     cursor: pointer;
     outline: none; /* Removes the blue box when clicking */
+    margin-left: 5px; /* Nudges the button to the right */
   }
 </style>
 
