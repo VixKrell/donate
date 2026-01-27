@@ -88,18 +88,37 @@ If you enjoy my tools and want to support me, you can donate below.
 *Thanks for your support!* [vixkrell@gmail.com](mailto:vixkrell@gmail.com)
 
 <script>
+// Variables to track the currently active button and its timer
+var activeBtn = null;
+var activeTimer = null;
+
 function copy(id, btn) {
   var txt = document.getElementById(id).innerText;
   
   navigator.clipboard.writeText(txt).then(function() {
     
-    // Change icon to checkmark
-    btn.innerText = "✅";
+    // 1. If there is already a green checkmark on a DIFFERENT button, reset it immediately
+    if (activeBtn && activeBtn !== btn) {
+      activeBtn.innerText = "📋";
+      clearTimeout(activeTimer);
+    }
     
-    // Revert back after 1.75 seconds (1750ms)
-    setTimeout(function() {
+    // 2. If clicking the SAME button again, reset the timer so it stays green longer
+    if (activeBtn === btn) {
+      clearTimeout(activeTimer);
+    }
+    
+    // 3. Turn the current button green and save it as "active"
+    btn.innerText = "✅";
+    activeBtn = btn;
+    
+    // 4. Start the timer to revert THIS button after 1750ms
+    activeTimer = setTimeout(function() {
       btn.innerText = "📋";
+      activeBtn = null;
+      activeTimer = null;
     }, 1750);
+    
   }, function(err) {
     console.error('Could not copy text: ', err);
   });
