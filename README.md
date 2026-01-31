@@ -59,6 +59,20 @@ If you enjoy my tools and want to support me, you can donate below.
 
 <div style="height:1px; background-color:#dbdbdb; margin:20px 0;"></div>
 
+**Solana (SOL):**
+<div style="display:flex; align-items:center; gap:2px; margin-top:-12px; margin-bottom:4px;">
+  <button onclick="copy('sol', this)" style="cursor:pointer; font-size: 1.2em; border:none; background:none; padding:0; margin:0;" title="Copy Address">📋</button>
+  <code id="sol" style="word-break: break-all;">GxUYy9TrK5sKvr8NEYs8QeC1XZ8ZZ8e2xhevYmf83JPu</code>
+</div>
+
+<details>
+  <summary>Show Solana QR Code</summary>
+  <br>
+  <img src="sol.png" width="250" alt="Solana QR">
+</details>
+
+<div style="height:1px; background-color:#dbdbdb; margin:20px 0;"></div>
+
 **Dogecoin (DOGE):**
 <div style="display:flex; align-items:center; gap:2px; margin-top:-12px; margin-bottom:4px;">
   <button onclick="copy('doge', this)" style="cursor:pointer; font-size: 1.2em; border:none; background:none; padding:0; margin:0;" title="Copy Address">📋</button>
