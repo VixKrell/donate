@@ -59,6 +59,20 @@ If you enjoy my tools and want to support me, you can donate below.
 
 <div style="height:1px; background-color:#dbdbdb; margin:20px 0;"></div>
 
+**Dogecoin (DOGE):**
+<div style="display:flex; align-items:center; gap:2px; margin-top:-12px; margin-bottom:4px;">
+  <button onclick="copy('doge', this)" style="cursor:pointer; font-size: 1.2em; border:none; background:none; padding:0; margin:0;" title="Copy Address">📋</button>
+  <code id="doge" style="word-break: break-all;">DAHdS4S4tuhPy2HMbboYaTf6unPHQPYyAH</code>
+</div>
+
+<details>
+  <summary>Show Dogecoin QR Code</summary>
+  <br>
+  <img src="doge.png" width="250" alt="Dogecoin QR">
+</details>
+
+<div style="height:1px; background-color:#dbdbdb; margin:20px 0;"></div>
+
 **Monero (XMR):**
 <div style="display:flex; align-items:center; gap:2px; margin-top:-12px; margin-bottom:4px;">
   <button onclick="copy('xmr', this)" style="cursor:pointer; font-size: 1.2em; border:none; background:none; padding:0; margin:0;" title="Copy Address">📋</button>
